@@ -33,7 +33,7 @@
 
 - E.g. you have data of all the people living in your locality, its Data, when you analyze and interpret the data and come to some conclusion that:
   - There are 100 senior citizens.
-  - The sex ratio is 1.1.
+  - The sex ratio is 1:1.
   - Newborn babies are 100.
   
   These are information.
