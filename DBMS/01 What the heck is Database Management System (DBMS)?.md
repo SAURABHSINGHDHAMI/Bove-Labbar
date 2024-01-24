@@ -1,6 +1,6 @@
 # Introduction to DBMS
 
-## 1. What is Data?
+## What is Data?
 
 - Data is a collection of raw, unorganized facts and details like text, observations, figures, symbols, and descriptions of things etc.
 
@@ -10,18 +10,21 @@
 
 - Data can be recorded and doesn’t have any meaning unless processed.
 
+---
 
-## 2. Types of Data
+## Types of Data
 
-- **Quantitative**
-  - Numerical form
-  - Weight, volume, cost of an item.
-  
-- **Qualitative**
-  - Descriptive, but not numerical.
-  - Name, gender, hair color of a person.
+1. **Quantitative**
+   - Numerical form
+   - Weight, volume, cost of an item.
 
-## 3. What is Information?
+2. **Qualitative**
+   - Descriptive, but not numerical.
+   - Name, gender, hair color of a person.
+
+---
+
+## What is Information?
 
 - Info. Is **processed, organized, and structured data**.
 
@@ -38,7 +41,9 @@
   
   These are information.
 
-## 4. Data vs Information
+---
+
+## Data vs Information
 
 - Data is a collection of facts, while information puts those facts into context.
 
@@ -54,13 +59,17 @@
 
 - Data isn’t sufficient for **decision-making**, but you can make decisions based on information.
 
-## 5. What is Database?
+---
+
+## What is Database?
 
 - Database is an electronic place/system where data is stored in a way that it can be **easily accessed, managed, and updated**.
 
 - To make real use Data, we need **Database management systems (DBMS)**.
 
-## 6. What is DBMS?
+---
+
+## What is DBMS?
 
 - A database-management system (DBMS) is a collection of **interrelated data** and **a set of programs to access those data**.
 
@@ -76,8 +85,9 @@
   <img src="https://github.com/SAURABHSINGHDHAMI/Bove-Labbar/blob/main/DBMS/DBMS%20Diagrams/What%20is%20DBMS.jpg" alt="What is DBMS">
 </p>
 
+---
 
-## 7. DBMS vs File Systems
+## DBMS vs File Systems
 
 - **File-processing systems** has major **disadvantages**.
   - Data Redundancy and inconsistency
