@@ -233,7 +233,7 @@ SELECT worker_title, COUNT(*) AS title_count FROM title GROUP BY worker_title HA
 
 ##### Q-26. Write an SQL query to show only odd rows from a table.
 ```sql
-select * from worker where MOD (WORKER_ID, 2) != 0;
+SELECT * FROM worker WHERE MOD(WORKER_ID, 2) != 0;
 ```
 ```sql
 SELECT * FROM worker WHERE MOD(WORKER_ID, 2) <> 0;
